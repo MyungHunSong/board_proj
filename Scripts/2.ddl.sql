@@ -17,3 +17,5 @@ create table if not exists board(
    PRIMARY KEY(BOARD_NUM)
 ); 
 
+
+

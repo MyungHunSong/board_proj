@@ -52,11 +52,6 @@
 				</tr>
 				<tr>
 					<td class="td_left">
-						<label for="BOARD_NAME">글쓴이</label>
-					</td>
-				</tr>
-				<tr>
-					<td class="td_left">
 						<label for="BOARD_PASS">비밀번호</label>
 					</td>
 					<td class="td_right">
